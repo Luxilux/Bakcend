@@ -1,0 +1,15 @@
+current directory: /home/dell/Desktop/web/Backend/.bundle/gems/websocket-driver-0.7.0/ext/websocket-driver
+/usr/share/rvm/rubies/ruby-2.5.1/bin/ruby -r ./siteconf20180731-15293-1thu6u0.rb extconf.rb
+creating Makefile
+
+current directory: /home/dell/Desktop/web/Backend/.bundle/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/dell/Desktop/web/Backend/.bundle/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/dell/Desktop/web/Backend/.bundle/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -m 0755 websocket_mask.so ./.gem.20180731-15293-7adibs
